@@ -1,0 +1,12 @@
+{
+  "name": "progress-bar-demo",
+  "displayName": "progress-bar-demo",
+  "expo": {
+    "name": "progress-bar-demo",
+    "slug": "progress-bar-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
